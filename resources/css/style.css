@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.link {
+    color:aquamarine;
+    font-size: 16px;
+    display: block;
+}
+
+video {
+    object-fit: contain;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color:Gray;
+    font-size: 21px;
+}
+
+.icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+footer {
+    text-align: right;
+    color: Gray;
+    font-size: 21px;
+}

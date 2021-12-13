@@ -1,0 +1,11 @@
+# Art gallery project
+HTML and css fundamentals practice project
+## Inspiration
+Codecademy 
+## General Information
+landing page for an upcoming web service made in html and css
+### Technologies used
+- HTML
+- CSS
+- Git and Github
+-github pages
