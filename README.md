@@ -1,4 +1,4 @@
-# Art gallery project
+# Excursion
 HTML and css fundamentals practice project
 ## Inspiration
 Codecademy 
