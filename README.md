@@ -9,3 +9,7 @@ landing page for an upcoming web service made in html and css
 - CSS
 - Git and Github
 -github pages
+
+#### Live website
+
+[excursion](https://birasrt.github.io/excursion/)
